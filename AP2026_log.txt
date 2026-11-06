@@ -281,7 +281,7 @@
 
 0 000 111 ccc ddd eee fff ggg hhh iii jjj kkk lll　https://github.com/std-takayama/AP2026/compare/082fe16..7152b3c
 
-1
+1 2026.11.06 3204 泉遥喜　ｎ進数を１０進数にする方法を学んだ。Ｄ問題全クリまであと１１０問
 
 2
 
